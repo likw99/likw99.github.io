@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: Privacy Policy for MANA
-permalink: /apps/mana/privacy/
+date: 2026-01-04 00:00:00 +0900
+categories: apps mana
 ---
 
 # Privacy Policy for MANA
