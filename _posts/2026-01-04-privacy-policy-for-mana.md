@@ -1,32 +1,31 @@
 ---
 layout: post
-title: Privacy Policy for MANA
+title: Privacy Policy for MANA v1.0
 date: 2026-01-04 00:00:00 +0900
 categories: apps mana
 ---
 
-# Privacy Policy for MANA
+# Privacy Policy for MANA v1.0
 **Effective Date:** January 4, 2026
 
-We believe your health data belongs to you. This policy explains how **MANA** ("the App") handles your personal information. We do not operate external servers, and your data remains under your complete control.
+We believe your health data belongs to you. This policy explains how **MANA** ("the App") handles your personal information.
 
-## 1. Health Data (Apple HealthKit)
-MANA integrates with Apple’s HealthKit to gamify your activity. 
-* **Data Accessed:** We read Active Energy, Steps, and Stand Hours.
-* **Usage:** This data is processed locally on your device to calculate your in-game "Mana" and XP.
-* **Privacy:** We do not transmit this data to any external servers, and we never use it for advertising or marketing.
+## 1. Data Collection & Usage
+**MANA does not collect, store, or share any personal information.**
 
-## 2. Location Data
-MANA uses your location to provide real-time gameplay mechanics based on your environment.
-* **Usage:** Your coordinates are used anonymously with **Apple WeatherKit** to fetch local UV Index and weather conditions.
-* **Privacy:** Your location is processed in real-time and is **never saved** to any external server or used to track your movement history.
+* **No Account Required:** You can use the app without creating an account or providing any personal details.
+* **No Server Tracking:** We do not operate external servers, and your usage data remains completely on your device.
+* **No Health Data:** Version 1.0 of Mana operates independently and does not currently access your Apple HealthKit data.
+* **No Location Data:** The app does not request or access your location services.
 
-## 3. Data Storage & Security
-* **Local Storage:** All health and activity data is stored securely on your device or in your personal iCloud account.
-* **No Third-Party Sharing:** We do not sell, rent, or share your data with data brokers or information resellers.
+## 2. Data Storage
+All app preferences and "Mana" energy levels are stored locally on your Apple Watch. If you delete the app, this local data is removed.
+
+## 3. Third-Party Services
+We do not integrate with any third-party analytics, advertising, or marketing frameworks.
 
 ## 4. Your Rights
-You maintain full control over your data. You can grant or revoke permissions for HealthKit or Location at any time through your iOS **Settings** app.
+Since we do not collect any user data, there is no personal information for us to delete or modify. You have complete control over the app's presence on your device.
 
 ## 5. Contact Us
 If you have questions about this policy, please contact:
